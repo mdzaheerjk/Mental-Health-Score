@@ -1,9 +1,6 @@
-numpy
-pandas
-seaborn
-matplotlib
-scikit-learn
-pydantic
-uvicorn
 fastapi
+uvicorn
+pydantic
 joblib
+pandas
+scikit-learn
