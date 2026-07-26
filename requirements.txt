@@ -1,4 +1,4 @@
-"fastapi[standard]"
+fastapi[standard]
 uvicorn
 pydantic
 joblib
